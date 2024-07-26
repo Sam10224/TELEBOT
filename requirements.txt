@@ -1,1 +1,5 @@
 wikipedia
+wikipedia-api
+openai
+googletrans
+requests
