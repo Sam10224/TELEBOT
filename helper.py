@@ -1,4 +1,4 @@
-dare = [
+dareLines = [
     "eat 2 tablespoons of rice without any side dishes, if it's dragging you can drink",
     "spill people who make you pause",
     "call crush/pickle now and send ss",
@@ -82,7 +82,7 @@ dare = [
     "send abusive words in any grup, excepting this grup, and send screenshot proof here"
 ]
 
-truth = [
+truthLines = [
     "Have you ever liked anyone? How long?",
     "If you can or if you want, which gc/outside gc would you make friends with? (maybe different/same type)",
     "apa ketakutan terbesar kamu?",
@@ -174,7 +174,7 @@ truth = [
     "do you play pubg, if you then send ur id number"
 ]
 
-insults = [
+insultLines = [
     "You're as useless as the 'ueue' in 'queue'.",
     "I'm jealous of all the people who haven't met you.",
     "You bring everyone a lot of joy... when you leave the room.",
@@ -242,7 +242,7 @@ flirtLines = [
     "Do you have a name, or can I call you mine?",
 ]
 
-jokes = [
+jokeLines = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "What do you call fake spaghetti? An impasta!",
     "Why did the scarecrow win an award? Because he was outstanding in his field!",
