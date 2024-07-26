@@ -23,20 +23,20 @@ The features might not be documented fully in the documentation but they are all
 To install the bot into your system:
 1. Clone the TELEBOT repository:
 ```bash
-- git clone https://github.com/Sam10224/TELEBOT.git
+git clone https://github.com/Sam10224/TELEBOT.git
 ```
 2. Navigate to the TELEBOT directory:
 ```bash
-- cd TELEBOT
+cd TELEBOT
 ```
 3. Install all the required dependencies:
 ```bash
-- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 ## Usage
 How to use the project after installation:
 ```bash
-- python3 main.py
+python3 main.py
 ```
 
 ## Configuration
@@ -45,7 +45,7 @@ Ensure you create a .env file in the project directory before running the script
 ## Testing
 Run unit tests:
 ```bash
-- pytest
+pytest
 ```
 
 ## Deployment
