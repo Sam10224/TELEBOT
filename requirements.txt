@@ -3,3 +3,4 @@ wikipedia-api
 openai
 googletrans
 requests
+python-telegram-bot
